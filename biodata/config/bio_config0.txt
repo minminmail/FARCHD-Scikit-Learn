@@ -1,0 +1,5 @@
+algorithm = Chi Fuzzy Weighted Rule Learning Model
+inputData = " ../datasets/bio/bio0tra.dat""../datasets/bio/bio0tra.dat""../datasets/bio/bio0tst.dat"
+outputData = " ../results/bioresult0.tra""../results/bioresult0.tst""../results/result0e0.txt""../results/result0e1.txt"
+Number of Labels = 3
+T-norm for the Computation of the Compatibility Degree = ProductRule Weight = Penalized_Certainty_FactorFuzzy Reasoning Method = Winning_Rule
